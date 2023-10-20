@@ -1,0 +1,104 @@
+html>
+    <head>
+        <title> RESUME</title>
+    </head>
+
+    <style>
+
+    p
+    {
+        border:5px solid green
+    }
+    </style>
+
+    <p>
+
+        <body>
+            <center>
+
+                <h1>
+                    <u>MY RESUME </U>
+
+                </h1>
+            </center>
+
+            <h3>MUPPIDATHY
+
+
+            <img src="muppidathy.jpg" width=150 height=150 hspace=200 align=right>
+
+            <h5> Tirunelveli </h5>
+
+            <h5> s.mupdiathy@mjc.ac.in </h5>
+            
+            <h5> contact no:9342******</h5><hr>
+
+            <h2>
+                <div style="background-color: white;padding:05px;">
+                    <u> CAREER OBJECTIVE </u>
+                </h2>
+                <h3> to succeed in an environment of growth and excellence and earn and a job which provide me job satisfaction and self development and help a person as well as organisation goals.
+
+                </h3>
+
+                <h2>
+                <div style="background-color: gray;color:white;padding05px">
+                    <u> ACADAMIC DETAILS</u>
+
+                </h2>
+
+                <table border=5 width=1000>
+                    <tr>
+
+                        <th> qualification </th>
+                        <th> board /university </th>
+                        <th> year of passing </th>
+                        <th> marks </th>
+
+                    </tr>
+
+                    <tr>
+                        <th> bsc.cs </th>
+                        <th> bharathiyar university</th>
+                        
+                    <th> 2024</th>
+                        <th> 80%</th>
+
+                    </tr>
+                    <tr>
+
+                    </table>
+
+                    <h2>
+                        <div style="background-color:gray;color:white;padding:05px;">
+                        </h2>
+
+                        <ul>
+                            <h3>
+                                <b>
+                                    <li> good communication.</li>
+                                    <li>helping mind.</li>
+                                    <li>self motivated. </li>
+                                    <h3>
+                                        <b>
+
+                                        </u>
+                                        <h2>
+                                            <div style="background-color: gray;color:white:padding:05px;">
+                                                <u>personal details </u>
+                                            </h2>
+                                            <ul>
+                                                <b>
+                                                    <h3>
+                                                        <li>NAME: MUPPIDATHY
+                                                            <li>married: no 
+                                                                <li>hobbies :</li>
+                                                                <ul>
+                                                                    <li> hand craft
+                                                                        <li>dancing
+                                                                            <li>book reading</li>
+                                                                        </li>
+                                                                    </ul>
+                                                                </ul>
+                                                                </html>
+            
